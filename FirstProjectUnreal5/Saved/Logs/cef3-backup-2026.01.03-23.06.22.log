@@ -1,0 +1,11 @@
+[14576:24324:0103/235205.030:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14576:17520:0103/235205.318:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[14576:24324:0103/235205.470:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14576:24324:0103/235233.415:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[14576:13652:0103/235236.193:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14576:13652:0103/235446.844:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[14576:24324:0104/000532.803:ERROR:device_event_log_impl.cc(196)] [00:05:32.782] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[14576:24324:0104/000532.849:ERROR:device_event_log_impl.cc(196)] [00:05:32.844] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[14576:24324:0104/000532.882:ERROR:device_event_log_impl.cc(196)] [00:05:32.861] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: Aucune donnée n’est disponible. (0x103)
+[14576:24324:0104/000533.103:ERROR:device_event_log_impl.cc(196)] [00:05:33.097] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[14576:24324:0104/000622.190:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
