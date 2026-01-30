@@ -1,0 +1,11 @@
+[19504:8920:0130/164028.456:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19504:20036:0130/164028.500:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19504:8920:0130/164028.537:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19504:8920:0130/164043.249:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[19504:8920:0130/164048.318:ERROR:network_service_instance_impl.cc(608)] Network service crashed, restarting service.
+[19504:8920:0130/164050.488:ERROR:device_event_log_impl.cc(196)] [16:40:48.667] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Élément introuvable. (0x490)
+[11144:580:0130/164051.383:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FinishedLoadingCookies@net\extras\sqlite\sqlite_persistent_cookie_store.cc:1646 to client_task_runner_.
+[11144:580:0130/164051.383:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FinishedLoadingCookies@net\extras\sqlite\sqlite_persistent_cookie_store.cc:1646 to client_task_runner_.
+[11144:580:0130/164051.383:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FinishedLoadingCookies@net\extras\sqlite\sqlite_persistent_cookie_store.cc:1646 to client_task_runner_.
+[11144:580:0130/164051.409:WARNING:sqlite_persistent_store_backend_base.cc(198)] Failed to post task from FinishedLoadingCookies@net\extras\sqlite\sqlite_persistent_cookie_store.cc:1646 to client_task_runner_.
+[19504:8920:0130/164051.581:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
